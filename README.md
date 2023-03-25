@@ -7,7 +7,7 @@
 * **Telegram: https://t.me/sviridov13**
 * **Email: go.sviridov13@gmail.com**
 # Skills
-**PHP**
+* **PHP**
 * **Laravel**
 * **PostgreSQL**
 * **REST API**

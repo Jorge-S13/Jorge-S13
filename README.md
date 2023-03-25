@@ -4,12 +4,12 @@
 # Location
 **I'm currently based in Tashkent, Uzbekistan. Tashkent is the capital city of Uzbekistan and is known for its beautiful architecture, vibrant culture, and delicious food.**
 # Contact
-**Telegram: https://t.me/sviridov13**
-**Email: go.sviridov13@gmail.com**
+* **Telegram: https://t.me/sviridov13**
+* **Email: go.sviridov13@gmail.com**
 # Skills
 **PHP**
-**Laravel**
-**PostgreSQL**
-**REST API**
+* **Laravel**
+* **PostgreSQL**
+* **REST API**
 
 ### Feel free to reach out to me if you have any questions or collaboration opportunities!

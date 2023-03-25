@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello! I'm Georgy Sviridov
+## About me
+**I'm a beginning back-end developer specializing in PHP and Laravel. I have experience in building web applications and knowledge in the areas of databases and REST API.**
+# Location
+**I'm currently based in Tashkent, Uzbekistan. Tashkent is the capital city of Uzbekistan and is known for its beautiful architecture, vibrant culture, and delicious food.**
+# Contact
+**Telegram: https://t.me/sviridov13**
+**Email: go.sviridov13@gmail.com**
+# Skills
+**PHP**
+**Laravel**
+**PostgreSQL**
+**REST API**
+# Projects
+**Project 1**
+**Project 2**
 
-<!--
-**AlohaGANG/AlohaGANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Feel free to reach out to me if you have any questions or collaboration opportunities!

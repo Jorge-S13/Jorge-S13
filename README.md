@@ -11,8 +11,5 @@
 **Laravel**
 **PostgreSQL**
 **REST API**
-# Projects
-**Project 1**
-**Project 2**
 
 ### Feel free to reach out to me if you have any questions or collaboration opportunities!
